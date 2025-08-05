@@ -36,3 +36,4 @@ This project demonstrates how to adapt a general-purpose language model (GPT-2 M
 - **South African meals:** Suggests receipes for popular South African receipes
 - **User personalization:** Adapts responses based on user preferences and history
 
+<img width="612" height="459" alt="image" src="https://github.com/user-attachments/assets/6a6997c1-0f76-421e-acae-c505ae2e6202" />
